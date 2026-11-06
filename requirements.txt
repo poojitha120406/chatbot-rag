@@ -1,0 +1,6 @@
+psentence-transformers
+chromadb
+PyPDF2
+torch
+python-dotenv
+openai
